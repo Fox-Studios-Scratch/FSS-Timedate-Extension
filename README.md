@@ -4,7 +4,7 @@ An Azure DevOps widget that displays local time and date. This widget is designe
 
 ## Overview
 
-This widget  
+This widget extension includes a local time & date widget, which is designed to help you and your team stay on schedule.  
 
 ## Features
 
