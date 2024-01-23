@@ -1,59 +1,42 @@
 # FSS Time and Date Widget
 
-An Azure DevOps widget that displays local time and date. This widget is designed to help you and your team stay on schedule.
-
 ## Overview
 
-This widget extension includes a local time & date widget, which is designed to help you and your team stay on schedule.  
+The FSS Time and Date Widget is an Azure DevOps extension that allows you to display the local time and date in your Azure Boards. This widget is designed to help you and your team stay on schedule.
 
 ## Features
 
-- Display local time and date in your Azure DevOps dashboards.
+- Real-time display of the local time and date.
+- Seamless integration with Azure Boards.
+- Customizable settings to adjust the appearance.
 
-## Installation
+## Getting Started
 
-To install the FSS Time and Date Widget in your Azure DevOps organization, follow these steps:
+1. Install the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=foxstudiosscratch.FSS-timedate-extension).
+2. Add the Time and Date Widget to your Azure Boards dashboard.
+3. Configure the widget settings to fit your preferences.
 
-1. Go to your Azure DevOps dashboard.
-2. Click on the "Settings" icon.
-3. Navigate to the "Extensions" section.
-4. Search for "FSS Time and Date Widget" and click "Install."
+For more detailed information, visit the [GitHub Repository](https://github.com/fox-studios-scratch/FSS-timedate-extension) or check out the [Get Started](https://www.foxstudiosscratch.xyz/github/fsstdw) guide.
 
-## Usage
+## Feedback and Issues
 
-Once installed, you can add the Time and Date Widget to your dashboard by:
-
-1. Editing your dashboard.
-2. Adding a new widget.
-3. Selecting "Time and Date Widget" from the widget catalog.
-
-## Configuration
-
-Include any relevant configuration instructions or settings.
-
-## Contributing
-
-If you encounter any issues or have suggestions for improvements, feel free to open an issue, submit a pull request, or contact us on our [Discord](https://www.foxstudiosscratch.xyz/discord)
-
-## Acknowledgments
-
-- Mention any libraries, tools, or individuals whose work you've used or built upon.
-
-## Support
-
-For support, please visit our [GitHub Issues](https://github.com/fox-studios-scratch/FSS-timedate-extension/issues) page.
-
-## Authors
-
-- [Your Name]
-- [Any other contributors...]
+If you encounter any issues or have feedback, please [create an issue on GitHub](https://github.com/fox-studios-scratch/FSS-timedate-extension/issues). If you have any suggestions, make sure to suggest them on our [Discord](https://www.foxstudiosscratch.xyz/discord).
 
 ## Version History
 
-- **1.0.1** - [Release notes, if any...]
-
-## Links
-
-- [GitHub Repository](https://github.com/fox-studios-scratch/FSS-timedate-extension)
-- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=foxstudiosscratch.FSS-timedate-extension)
-
+- **v1.0.0 (Initial Release)**
+  - Released.
+- **v1.0.1**
+  - Bug Fixes
+- **v1.0.2**
+  - Redesigned time.
+  - Bug Fixes.
+- **v1.0.3**
+  - Bug Fixes.
+- **v1.0.4**
+  - Partial Makeover
+  - Bug Fixes
+- **v1.0.5**
+  - Forgot a bracket & broke the code xd
+- **v1.0.6**
+  - Major bug fixes
